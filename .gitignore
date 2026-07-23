@@ -26,3 +26,6 @@ desktop.ini
 
 # Capturas (por si algun dia guardas dentro del proyecto)
 Capturas_Cometa/
+
+# Otros proyectos que viven en la misma carpeta (no van al repo de Cometa)
+Tests/
