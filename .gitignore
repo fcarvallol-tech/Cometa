@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Empaquetado / build
+build/
+dist/
+*.spec
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Iconos temporales que genera la app en tiempo de ejecucion
+*.ico
+
+# Sistema operativo / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Capturas (por si algun dia guardas dentro del proyecto)
+Capturas_Cometa/
